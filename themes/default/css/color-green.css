@@ -1,0 +1,25 @@
+/**
+ * Custom theme styles that overwrites theme 
+ */
+
+a {color: #727F27;}
+a:hover {color: #535F12;}
+
+.category_box_title {background-color: #AFBD5E;}
+
+.navbar-inverse {background-color: #AFBD5E; border-color: #909F3B;}
+
+.navbar-inverse .navbar-toggle:hover, .navbar-inverse .navbar-toggle:focus{background-color: #AFBD5E;}
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:hover, .navbar-inverse .navbar-nav>.active>a:focus {color: #fff; background-color: #909F3B;}
+.navbar-inverse .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.open>a:hover, .navbar-inverse .navbar-nav>.open>a:focus {color: #fff;background-color: #909F3B;}
+
+.badge-success{background-color: #AFBD5E;}
+
+.featured{background: #BCCDC7;}
+
+.btn-primary{background-color: #909F3B; border-color: #717F1F;}
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active,
+.btn-primary.active,
+.open > dropdown-toggle.btn-primary {background-color: #717F1F; border-color: #535F0C;}
